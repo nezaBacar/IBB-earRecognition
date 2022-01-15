@@ -1,0 +1,5 @@
+{
+    "images_path" : "data/perfectly_detected_ears/test_pytorch",
+    "annotations_path" : "data/perfectly_detected_ears/annotations/recognition/ids.csv",
+    "images_path_detector" : "data/ears/train"
+}
