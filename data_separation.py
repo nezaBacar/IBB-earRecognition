@@ -5,7 +5,7 @@ import os
 import csv
 import shutil
 
-DATASET = "data/yolo4_ears/"
+DATASET = "data/yolov4_ears/"
 
 def copy_image(dir):
   if not (os.path.isdir(DATASET + dir + id)):
